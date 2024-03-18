@@ -1,0 +1,6 @@
+FastAPI
+uvicorn[standard]
+python-dotenv
+openai==0.28.1
+python-multipart
+pymongo[srv]
